@@ -1,0 +1,5 @@
+categories
+http://192.168.132.144/dairyapp/backend/fetch_categories.php
+
+login
+http://192.168.132.144/dairyapp/backend/login.php
